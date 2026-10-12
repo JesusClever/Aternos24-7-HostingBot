@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "PositivoVIH",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "losmalditosdelabrasilia.play.hosting",
+    "port": 25880,
     "version": "",
     "try-creative": false
   },
